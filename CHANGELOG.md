@@ -21,7 +21,7 @@
 - New: Show all notification icons on taskbar
 - New: Remove menus delay
 - New: Vietnamese and Urdu languages
-- New: Disable CoPilot AI now applies to Edge as well
+- New: Disable Copilot AI now applies to Edge as well
 - Improved: Localization updates
 - Improved: Many quality-of-life changes
 - Hotfix: Sorting deleting bug in Startup items (#489)
@@ -54,7 +54,7 @@
 - Hotfix: 'Reinforce policies' crash resolved (#400)
 
 ## [15.9] - 2023-10-14
-- New: Disable CoPilot AI (in Windows 11)
+- New: Disable Copilot AI (in Windows 11)
 - New: Fully translated into Bulgarian
 - New: 'Reinforce policies' in Options re-applies your current enabled tweaks (#389)
 - Hotfix: Crash on localized versions of Windows (#383)

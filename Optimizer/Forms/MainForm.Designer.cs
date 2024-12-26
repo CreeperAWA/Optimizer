@@ -1521,12 +1521,12 @@ namespace Optimizer
             // 
             // copilotSw
             // 
-            this.copilotSw.AccessibleName = "Disable CoPilot AI";
+            this.copilotSw.AccessibleName = "Disable Copilot AI";
             this.copilotSw.AccessibleRole = System.Windows.Forms.AccessibleRole.CheckButton;
             this.copilotSw.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
             this.copilotSw.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.copilotSw.ForeColor = System.Drawing.Color.White;
-            this.copilotSw.LabelText = "Disable CoPilot AI";
+            this.copilotSw.LabelText = "Disable Copilot AI";
             this.copilotSw.Location = new System.Drawing.Point(579, 158);
             this.copilotSw.Margin = new System.Windows.Forms.Padding(8, 8, 8, 8);
             this.copilotSw.Name = "copilotSw";

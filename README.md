@@ -27,7 +27,7 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 - Disable Office telemetry (works with Office 2016 or newer)
 - Stop automatic Windows 10/11 updates
 - Download multiple useful apps quickly
-- Disable CoPilot AI in Windows 11 & Edge
+- Disable Copilot AI in Windows 11 & Edge
 - Enable UTC time globally
 - Advanced tweaks like disabling HPET, OneDrive, etc.
 - Uninstall UWP apps
